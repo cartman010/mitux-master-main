@@ -24,13 +24,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
      id="namedview11"
      showgrid="false"
      inkscape:zoom="0.5859375"
-     inkscape:cx="1051.3432"
-     inkscape:cy="347.4199"
+     inkscape:cx="631.50396"
+     inkscape:cy="555.07486"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -72,10 +72,7 @@
     </style>
   </defs>
   <path
-     id="Rounded_Rectangle_514"
-     data-name="Rounded Rectangle 514"
-     class="cls-1"
-     d="m 1920,0 0,678.11276 C 1795.7763,755.85313 1583.5161,788.12153 1387.5574,775.73371 1212.7444,764.68264 969.30025,704.78148 715.25698,698.02597 519.52121,692.82097 149.13699,801.38829 8.5333337,643.77323 -117.28565,502.8136 0,161.22528 0,161.22528 7.1351699,60.410606 79.776085,9.9284621 126.84,0 Z"
-     sodipodi:nodetypes="ccsscccc"
-     style="fill:#00ffff;stroke-width:1.28922" />
+     id="path11"
+     style="fill:#00ffff;stroke-width:1.28922"
+     d="M 126.83984 0 C 79.775929 9.9284621 7.1351699 60.409935 0 161.22461 C 1.2254162e-15 161.22461 -1.596831 166.25013 -2.4804688 168.96094 L 1920 168.96094 L 1920 0 L 126.83984 0 z " />
 </svg>
